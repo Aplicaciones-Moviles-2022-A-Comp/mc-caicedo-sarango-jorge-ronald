@@ -1,0 +1,8 @@
+id_banda	nombre_banda	fecha_creacion	lugar_creacion	is_active	numero_integrantes
+101 Modern Talking 1979-02-22 Alemania false 2
+102 Linkin Park 1999-07-23 EEUU true 4
+103 OV7 1999-09-22 EEUU true 5
+104 Joy 1980-08-23 EEUU false 3
+105 Queen 1980-07-23 EEUU false 4
+106 SoD 1995-07-23 EEUU true 4
+107 Guns n Roses 1980-07-23 EEUU true 4
