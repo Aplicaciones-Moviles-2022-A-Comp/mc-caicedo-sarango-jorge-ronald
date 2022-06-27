@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saludo">Esto es Lands-EN</string>
+    <color name="color_texto">#1F14AA</color>
+    <color name="color_fondo">#118FC8</color>
+</resources>

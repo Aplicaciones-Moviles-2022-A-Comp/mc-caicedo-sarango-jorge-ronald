@@ -1,0 +1,9 @@
+id_cancion	nombre_cancion	duracion_cancion	fecha_lanzamiento	is_single	numero_pista	ganancias_sencillo id_banda
+001 Toxicity 2015-02-03 00:03:24 true 1 50000.0 106
+002 Crawling 2010-04-12 00:02:34 false 13 8000.0 102
+003 New Divide 2010-04-13 00:08:34 true 24 3000.3 102
+004 In the end 2010-12-01 00:05:34 false 4 4000.2 102
+005 One Step Closer 2014-04-01 00:04:34 true 1 1000.3 102
+006 Touch by touch 1985-06-16 00:05:45 true 1 12312.20 104
+007 Voagge 1989-04-25 00:04:23 true 1 8128312.0 102
+008 Part Time Lover 1979-02-12 00:03:45 true 1 128312.0 101
