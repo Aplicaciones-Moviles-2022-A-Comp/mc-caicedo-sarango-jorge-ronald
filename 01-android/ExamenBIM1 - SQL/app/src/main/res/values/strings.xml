@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Examen-BIM1</string>
+    <string name="txtPrincipal">Bandas y Canciones</string>
+    <string name="btnBandas">Ver Bandas</string>
+    <string name="txtBandaSel">---</string>
+    <string name="btnAnadirC">Añadir Canción</string>
+    <string name="btnAnadirB">Añadir Banda</string>
+
+
+</resources>
